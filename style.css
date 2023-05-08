@@ -1,0 +1,280 @@
+*{
+    margin: 0;
+}
+
+.hone{
+    font-size: 50px;
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+    width: 300;
+       
+}
+.pee{
+    color: white;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: 30px;
+}
+
+ .btn-1{
+    text-decoration: none;
+    background-color:  #641e72;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+ .section-01{
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    
+    padding-bottom: 150px;
+    padding-top: 150px; 
+    background-position: center;
+    background-size: cover;
+
+    
+ }
+ 
+
+ /* section 2 ar kaj  */
+ .Donate{
+    text-align: center;
+    margin-top: 80px;
+ }
+  .Donate h1 {
+    margin-bottom: 10px;
+      }
+.Donate p {
+    width: 30%;
+    margin-bottom:10px ;
+}
+
+.taka{
+    display: flex;
+
+    margin-left: 250px;
+    margin-top: 50px;margin-bottom: 50px;
+}
+ 
+.taka div {
+  
+    border: 2px solid rgb(240, 232, 232);
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin: 10px;
+}
+
+ 
+.twotk{
+    border: 1px solid red;
+    
+}
+.twotk  h3{
+    color: red;
+    border: 1px solid red ;
+     
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin: -20px;
+}
+.other {
+    text-align: center;
+    margin-bottom: 25px;
+}
+ 
+.button{
+     text-decoration: none;
+     margin-left: 610px;
+    border: 1px solid  #FF5959;
+    padding: 10px;
+      color: white;
+    background-color: #FF5959;
+    border-radius: 10px;
+     
+}
+
+/* section 3 */
+.header2{
+    text-align-last: center;
+}
+.section-3{
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+}
+.card{
+    display: flex;
+    margin-top:70px ;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    
+}
+
+.card1{
+    background-color:#EDF5F6;
+    padding: 20px;
+    margin: 10px;padding-top: 10px;
+
+}
+.card2{
+    background-color:#FFEEEE;
+    padding: 20px;
+    margin: 10px;
+}
+.card3{
+    background-color:#FFF4D6 ;
+    padding: 20px;
+    margin: 10px;
+    
+}
+
+
+/* section 4 */
+
+.section-4{
+    padding-top: 20px;
+    display: flex;
+    width: 80%;
+    margin-bottom: 30px;
+}
+.img{
+    /* width: 28%; */
+    background-position: center;
+    padding-bottom: 30px;
+    margin-right: 20px;
+    /* margin-right: - 40px; */
+   
+}
+.two-part{
+    /* width: 50%; */
+    margin-top: 100px;
+    padding-right: 50px;
+    padding-left: 30px;
+    margin-left: 40px;  
+    text-align: justify;
+}
+.two-part h1 {
+    padding: 50px;
+    font-size: 30px;
+}
+
+.two-part p {
+    margin-bottom: 20px;
+}
+.two-btn{
+    text-decoration: none;
+    background-color: #F2981A;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-left: px;
+}
+
+/* section 5 */
+.section-5{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.heading-5{
+    margin-top: 50px;
+    padding-right: 50px;
+    padding-left: 30px;
+    margin-left: 40px;  
+    text-align: justify;
+    width: 40%;
+}
+.heading-5 h1 {
+    padding: 50px;
+    font-size: 40px;  
+    
+}
+.heading-5 p {
+    margin-bottom: 30px;
+}
+
+.three-btn{
+    text-decoration: none;
+    background-color: #05B1DF;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    
+}
+.img-1{
+    margin-left: 25px;
+}
+
+/* section 6 */
+
+.section-6{
+    margin-top: 60px;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-left: -40px;
+    padding-right: -40px;
+}
+.head-5{
+    text-align: center;
+}
+
+.head-5 h1{
+    font-size: 50px;
+    margin-bottom: 17px;
+}
+
+.head-5 h4{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+ .neww{
+    display: flex;
+    padding-left: 550px;
+    background-color: #F29DAD;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+ }
+ .btn-4{
+    text-decoration: none;
+    background-color:#FF5959;
+    border-radius: 10px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 7px;
+    text-color: white;
+
+ }
+
+
+
+ .fotter{
+    background-color:#0B0D17;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+ }
+.fotter p{
+    color: white;
+}
+
+
+
+
